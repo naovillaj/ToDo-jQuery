@@ -19,7 +19,7 @@ Página Principal:
 <br><img src="mp4/toDo.png">
 
 Demo - Página Principal:
-<br><center><img src="mp4/toDo.mp4"></center>
+![Demo](mp4/toDo.gif)
 
 ## Desarrollado con
 
